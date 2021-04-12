@@ -1,3 +1,7 @@
+<p align= "center">
+<a href="https://colab.research.google.com/github/martian1231/KNNFromScratch/blob/main/K_nearest_neighbour_from_scratch(classification%20and%20regression).ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a>
+</p>
+
 # K Nearest Neighbour (KNN, neighbourhood based machine learning algorithm)
 **KNN is a non-parametric statistical model (algorithm) used to solve variety of types of machine learning problems which includes supervised learning (classification, regression) and unsupervised learning also called K means clustering.**
 
